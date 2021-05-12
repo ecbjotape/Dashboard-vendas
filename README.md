@@ -1,9 +1,7 @@
 <h1>DevSuperior Semana Spring React</h1>
 
-<p> 
-  App desenvolvido: https://jotapedsvendas.netlify.app
-  Linguagens:
-</p>
+<p>App desenvolvido: https://jotapedsvendas.netlify.app</p>
+<h3> Linguagens:</h3>
 <ul>
   <li>Java + Springboot</li>
   <li>React js</li>
