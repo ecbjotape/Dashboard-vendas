@@ -1,3 +1,16 @@
-<h1>DevSuperior logo Semana Spring React - SDS 3.0</h1>
+<h1>DevSuperior Semana Spring React</h1>
 
-<p> App desenvolvido: https://jotapedsvendas.netlify.app</p>
+<p> 
+  App desenvolvido: https://jotapedsvendas.netlify.app
+  Linguagens:
+</p>
+<ul>
+  <li>Java + Springboot</li>
+  <li>React js</li>
+  <li>Bootstrap</li>
+  <li>ApexCharts</li>
+  <li>PostgreSql</li>
+  <li>Heroku</li>
+  <li>Netlify</li>
+      Curso realizado com ajuda de DevSuperior Escola de Programação 
+</ul>
